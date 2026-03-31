@@ -100,19 +100,13 @@ Example: ![Dashboard Preview](https://github.com/Vedantc21/Retail-Customer-Behav
 ## 📂 Project Structure
 
 ```
-Retail-Customer-Analysis/
+Retail-Customer-Behavior-and-Trends-Analysis/
 │
-├── dataset/
-│   └── retail_data.csv
+├── data_cleaning_analysis.ipynb
 │
-├── notebook/
-│   └── data_cleaning_analysis.ipynb
+├── queries.sql
 │
-├── sql/
-│   └── queries.sql
-│
-├── dashboard/
-│   └── powerbi_dashboard.pbix
+├── powerbi_dashboard.pbix
 │
 └── README.md
 ```
