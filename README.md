@@ -76,7 +76,7 @@ Retail businesses collect vast amounts of customer and transaction data, but str
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/Vedantc21/Retail-Customer-Behavior-and-Shopping-Trends-Analysis/blob/main/dashboard%20preview.png
 
 > Interactive Power BI dashboard showcasing sales trends, customer segmentation, and product performance.
 
