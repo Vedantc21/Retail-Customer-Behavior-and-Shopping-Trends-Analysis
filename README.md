@@ -72,6 +72,14 @@ Retail businesses collect vast amounts of customer and transaction data, but str
   * Category performance
 
 📁 File: `powerbi_dashboard.pbix` *(inside project folder/zip)*
+---
+
+## 📸 Dashboard Preview
+
+
+
+> Interactive Power BI dashboard showcasing sales trends, customer segmentation, and product performance.
+
 
 ---
 
